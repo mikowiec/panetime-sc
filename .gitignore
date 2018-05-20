@@ -1,5 +1,6 @@
 .idea
 target/
+backend/src/main/resources/application.conf
 project/*
 !project/build.properties
 !project/plugins.sbt

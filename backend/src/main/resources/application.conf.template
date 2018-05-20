@@ -1,0 +1,8 @@
+fileDb = {
+  url = "jdbc:postgresql://localhost:5432/dbpanetime"
+  user = dbpanetime
+  password = 0000
+  driver = org.postgresql.Driver
+  connectionPool = disabled
+  keepAliveConnection = true
+}
